@@ -1,0 +1,7 @@
+   .standard-size {
+        width: 500px;
+        height: 200px;
+        cursor:pointer ;
+        object-fit: cover; /* This will ensure that your image covers the entire space without distortion */
+    }
+
